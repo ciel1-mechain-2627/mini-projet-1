@@ -114,7 +114,7 @@ Durant la phase de mise au point, des **démonstrations pratiques** pourront êt
    
    On simulera le passage d'un véhicule de la **gauche vers la droite** par un bref appui sur **A** suivi d'un bref appui sur **B**. Le passage d'un véhicule de la **droite vers la gauche** sera simulé par un bref appui sur **B** suivi d'un bref appui sur **A**. On transmettra alors une information représentant la vitesse, supposée **inversement proportionnelle** à l’intervalle de temps entre les deux appuis :
      
-     > V = 20000 / Δt (avec V en km/h et Δt en ms)
+     **V = 20000 / Δt** (avec V en km/h et Δt en ms)
    
       Par exemple, si un véhicule venant de la gauche roule à 83 km/h en passant sur le capteur, la carte *Micro:bit* transmettra la chaîne "`G83`" (suivie d'un saut de ligne).
 
