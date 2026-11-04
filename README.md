@@ -6,7 +6,7 @@
 
 **Résumé :**
 
-> On souhaite réaliser un système de comptage de véhicules qui détectera et comptabilisera le sens et l’heure de passage de chaque véhicule sur une route à double sens de circulation. Ces données seront captées au moyen d’une carte à microcontrôleur *Micro:Bit*, archivées dans une base de données *SQLite* (Faire le [TP d'introduction](tuto-sqlite.md)) et présentées au moyen d’un ordinateur sous forme d’une page Web accessible à distance.
+> On souhaite réaliser un système de comptage de véhicules qui détectera et comptabilisera le sens et l’heure de passage de chaque véhicule sur une route à double sens de circulation. Ces données seront captées au moyen d’une carte à microcontrôleur *Micro:Bit*, archivées dans une base de données *SQLite* et présentées au moyen d’un ordinateur sous forme d’une page Web accessible à distance.
 
 ## 🟢 ***Objectifs du mini-projet***
 
