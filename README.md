@@ -153,10 +153,10 @@ Apache2 est un serveur web très puissant et largement utilisé, mais il est sur
 flowchart LR
     direction TB
 
-    A[5.1<br/>Texte brut]:::left --> A2["mimetype<br/>'text/plain'"]:::mime --> A1[afficher les<br/>données<br/>telles quelles]:::right
-    B[5.2<br/>Graphique image]:::left --> B2["mimetype<br/>'image/png'"]:::mime --> B1[visualiser les<br/>données<br/>en PNG]:::right
-    C[5.3<br/>Données JSON]:::left --> C2["mimetype<br/>'application/json'"]:::mime --> C1[fournir une<br/>API<br/>exploitable]:::right
-    D[5.4<br/>Page web enrichie]:::left --> D2["mimetype<br/>'text/html'"]:::mime --> D1[combiner texte,<br/>graphiques<br/>et style]:::right
+    A[4.1<br/>Texte brut]:::left --> A2["mimetype<br/>'text/plain'"]:::mime --> A1[afficher les<br/>données<br/>telles quelles]:::right
+    B[4.2<br/>Graphique image]:::left --> B2["mimetype<br/>'image/png'"]:::mime --> B1[visualiser les<br/>données<br/>en PNG]:::right
+    C[4.3<br/>Données JSON]:::left --> C2["mimetype<br/>'application/json'"]:::mime --> C1[fournir une<br/>API<br/>exploitable]:::right
+    D[4.4<br/>Page web enrichie]:::left --> D2["mimetype<br/>'text/html'"]:::mime --> D1[combiner texte,<br/>graphiques<br/>et style]:::right
 
     classDef left fill:#cce5ff,stroke:#004085,stroke-width:1px,color:#000;
     classDef mime fill:#f8d7da,stroke:#721c24,stroke-width:1px,color:#000;
