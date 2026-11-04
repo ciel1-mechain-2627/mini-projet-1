@@ -244,6 +244,6 @@ Résultat attendu :
   - sur une machine virtuelle *Debian* de votre poste de travail (via le réseau local)
   - dans le *cloud*
     
-- Utiliser [*streamlit*](https://streamlit.io) à la place de *Flask* pour la partie 5.4.
+- Utiliser [*streamlit*](https://streamlit.io) à la place de *Flask* pour la partie 4.4.
 
 - Exposer les résultats sur internet à travers un tunnel grâce à [*localhost.run*](https://localhost.run).
